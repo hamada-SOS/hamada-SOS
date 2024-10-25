@@ -1,16 +1,29 @@
-## Hi there 👋
+# Mohamed Abdi Nur (Hamaada)
 
-<!--
-**hamada-SOS/hamada-SOS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a passionate backend developer specializing in building robust and scalable applications using a variety of technologies. With a strong foundation in .NET, C#, TypeScript, and React, I leverage PostgreSQL and Docker to create efficient development environments.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 **Role**: Backend Developer
+- 🌍 **Location**: Somalia Mogadishu
+- 📧 **Email**: mohammadhassan241@gmail.com
+
+## Skills
+
+- **Backend Development**: .NET, C#, SpringBoot, Java, Kotlin
+- **Frontend Development**: React, TypeScript, JavaScript
+- **Database Management**: PostgreSQL, MySql
+- **Containerization**: Docker
+
+- 
+## Technologies Used
+
+- ![.NET](https://img.shields.io/badge/.NET-5C2D9D?style=flat-square&logo=.net&logoColor=white)
+- ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+- ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white)
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+
+Thank you for visiting my profile! 🚀
