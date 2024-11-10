@@ -7,6 +7,7 @@ Welcome to my GitHub profile! I am a passionate backend developer specializing i
 - 💻 **Role**: Backend Developer
 - 🌍 **Location**: Somalia Mogadishu
 - 📧 **Email**: mohammadhassan241@gmail.com
+- **Phone**: +252612134026
 
 ## Skills
 
